@@ -1,0 +1,50 @@
+body{
+    background-color:#D1D0CE;
+}
+.navbar-nav{
+    background-color:#424b5b;
+}
+#nav{
+    margin-top: 9px;
+    margin-left: 9px;
+    color:white
+}
+#bg1,#bg22,#bg3,#bg41,#bg42,#bg43,#bg5{
+    background-color: #3b3e41;
+}
+#bg1{
+    border-radius: 15px; 
+    height: 450px;
+    margin-right: 12%;
+}
+#bg21{
+    width: 60%;
+}
+#bg22{
+    height:40px;
+    margin-right:12%; 
+    border-radius: 8px;
+}
+#bg3{
+    height:39px; 
+    border-radius: 8px;
+    margin-left: 10px;
+}
+#bg41{
+    height: 150px; 
+    border-radius: 15px;
+    margin: 12% 12% 12% 0%;
+}
+#bg42{
+    height: 150px; 
+    border-radius: 15px;
+    margin: 12% 6% 12% 6%;
+}
+#bg43{
+    height: 150px; 
+    border-radius: 15px;
+    margin: 12% 0% 12% 12%
+}
+#bg5{
+    height: 170px;border-radius: 15px; margin: 12% 12% 12% 0%;
+}
