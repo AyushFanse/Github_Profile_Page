@@ -15,7 +15,6 @@ body{
 #bg1{
     border-radius: 15px; 
     height: 450px;
-    margin-right: 12%;
 }
 #bg21{
     width: 60%;
@@ -33,18 +32,16 @@ body{
 #bg41{
     height: 150px; 
     border-radius: 15px;
-    margin: 12% 12% 12% 0%;
 }
 #bg42{
     height: 150px; 
     border-radius: 15px;
-    margin: 12% 6% 12% 6%;
 }
 #bg43{
     height: 150px; 
     border-radius: 15px;
-    margin: 12% 0% 12% 12%
 }
 #bg5{
-    height: 170px;border-radius: 15px; margin: 12% 12% 12% 0%;
+    height: 170px;
+    border-radius: 15px;
 }
